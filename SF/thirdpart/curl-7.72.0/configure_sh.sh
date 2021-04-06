@@ -1,0 +1,1 @@
+./configure --prefix=$PWD/__install --host=arm CC=aarch64-himix210-linux-gcc --disable-imap --disable-ldap --disable-ldaps --disable-pop3 --disable-proxy --disable-rtsp --disable-smtp --without-zlib --without-ssl host_alias=arm

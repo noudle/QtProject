@@ -1,0 +1,7 @@
+zbar/qrcode/zbar_libzbar_la-bch15_5.lo: zbar/qrcode/bch15_5.c \
+ /opt/hisi-linux/x86-arm/aarch64-himix210-linux/target/usr/include/stdc-predef.h \
+ zbar/qrcode/bch15_5.h
+
+/opt/hisi-linux/x86-arm/aarch64-himix210-linux/target/usr/include/stdc-predef.h:
+
+zbar/qrcode/bch15_5.h:

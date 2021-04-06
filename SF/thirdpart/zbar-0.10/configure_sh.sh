@@ -1,0 +1,1 @@
+./configure --prefix=$PWD/__install --host=arm CC=aarch64-himix210-linux-gcc --enable-shared --enable-static --without-imagemagick --without-jpeg --without-python --without-gtk --without-qt --disable-video
